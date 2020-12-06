@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_search"
+        android:icon="@drawable/ic_search"
+        android:title="Search"
+        app:showAsAction="ifRoom"
+        app:actionViewClass="androidx.appcompat.widget.SearchView" />
+
+    <item android:id="@+id/description_catgory"
+        android:title="Description"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/first_name_category"
+        android:title="First Name"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/last_name_category"
+        android:title="Last Name"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/email_category"
+        android:title="Email"
+        app:showAsAction="never"/>
+
+
+
+
+
+
+
+</menu>

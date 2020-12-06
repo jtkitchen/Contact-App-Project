@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "849566907683",
+    "firebase_url": "https://contactappdraft.firebaseio.com",
+    "project_id": "contactappdraft",
+    "storage_bucket": "contactappdraft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849566907683:android:caac2968c44af503b5a096",
+        "android_client_info": {
+          "package_name": "kitchen_joshua.roberts.edu.contactappdraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849566907683-aji1v5ouceusgqolnao1ipf2kerl5n7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN97G1CX-t9cUqRxvOcMn4FF9uvEIJKio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849566907683-aji1v5ouceusgqolnao1ipf2kerl5n7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

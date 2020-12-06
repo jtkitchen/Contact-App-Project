@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0052B3</color>
+    <color name="colorPrimaryDark">#010C20</color>
+    <color name="colorAccent">#A0D4E5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="selectedRelationship">#2B6071</color>
+    <color name="defaultBackgroundSelectedRelationship">#BF64ACC4</color>
+    <color name="buttonColor">#717375</color>
+    <color name="cardBackground">#BF15719C</color>
+    <color name="opaquer_cardBackground">#8015719C</color>
+</resources>
